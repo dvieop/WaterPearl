@@ -1,0 +1,5 @@
+name: WaterPearl
+version: '1.0.0'
+main: dvie.waterPearl.WaterPearl
+api-version: '1.21'
+authors: [ dvie ]
